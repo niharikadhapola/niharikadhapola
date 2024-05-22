@@ -2,14 +2,14 @@
   <img width="260" height="260" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/niharika-dhapola/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
      <a href="mailto:ndhapola123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
    </a>
-     <a href="https://niharikadhapola.github.io/ndhapola/" target="_blank">
+     <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
 </div>  
